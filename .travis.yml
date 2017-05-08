@@ -1,4 +1,7 @@
 language: python
+env:
+  - secret_key=b1lh81BHUUE7mewsnBc1qUOStN6JpvFCqV3vZouxiIWynp3LGLyMUoQ7VLVrZuwr
+  - debug=True
 python:
   - "2.6"
   - "2.7"
